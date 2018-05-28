@@ -33,5 +33,11 @@ Those proposing changes should consider that ultimately consent may rest with th
 | Proof of Timeshare Revelations
 | -
 | Hermeneutic
-| Inevitable
+| Inevitable|- style="background-color: #ffcfcf"
+| [[tvs-0095.mediawiki|95]]
+|
+| On The Hash Power and Efficacy of Indulgences
+| -
+| Disputation
+| Draft
 |}

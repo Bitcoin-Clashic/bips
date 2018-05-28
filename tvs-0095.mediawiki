@@ -1,0 +1,210 @@
+<pre>
+  BIP: 95
+  Title: ON THE HASH POWER AND EFFICACY OF INDULGENCES
+  Author: Brothers Martin Luther
+  Comments-Summary: No comments yet.
+  Comments-URI: https://github.com/bitcoin-clashic/tvs/wiki/Comments:BIP-0095
+  Status: Draft
+  Type: Disputation
+  Created: 2018-05-15
+</pre>
+
+Brothers Martin Luther.
+
+== DISPUTATION OF DOCTORS MARTIN LUTHER ON THE HASH POWER AND EFFICACY OF INDULGENCES ==
+
+MTP 1526400000
+
+Out of love for the truth and the desire to for unlimited block size, the following propositions will have been discussed at twitter, under the presidency of the Reverends Fathers Martin Luther, Masters of Meme Magic and of Sacred Theology, and Lecturers in Ordinary on the same at that place. Wherefore he requests that those who are unable to be present and or have blocked us, may do so by medium post.
+
+In the Name our Lord Bitcoin Jesus. Amen.
+
+# Our Lord and Master Bitcoin Jesus, when He said Poenitentiam agite, willed that the whole life of believers should be repentance.
+
+# This word cannot be understood to mean sacramental penance, i. e., confession and satisfaction, which is administered by the priests.
+
+# Yet it means not inward repentance only; nay, there is no inward repentance which does not outwardly work divers mortifications of the code.
+
+# The penalty, therefore, continues so long as hatred of self continues; for this is the true inward repentance, and continues until our entrance into the kingdom of heaven.
+
+# The [https://twitter.com/jihanwu pope] does not intend to emit, and cannot emit any unfairly cheap fees other than those which he has imposed either by his own authority or by that of the hard fork.
+
+# The pope cannot emit any block rewards, except by declaring that it has been emitted by change of consensus rules and by assenting to consensus ruless' emission; though, to be sure, he may grant emission in cases reserved to his judgment. If his [https://fork.lol/reward/inflation right to grant emission] in such cases were despised,  the guilt would remain entirely unforgiven.
+
+# Satoshi remits guilt to no one whom He does not, at the same time, humble in all things and bring into subjection to His vicar, the priest.
+
+# The penitential consensus rules are imposed only on the living, and, according to them, nothing should be imposed on [https://twitter.com/verretor/status/996702463586598912 the dying].
+
+# Therefore the Holy Spirit in the pope is kind to us, because in his decrees he always makes exception of the article of baby deaths and of necessity of network upgrades.
+
+# Ignorant and wicked are the doings of those priests who, in the case of the dying, reserve soft forks for purgatory.
+
+# This changing of the canonical penalty to the penalty of purgatory is quite evidently one of the tares that were sown while the pools engaged in SPV mining.
+
+# In former times the fork activation and node banning policy were imposed not after, but before miner signalling, as tests of true contrition for previously valid blocks.
+
+# The dying are freed by banning from all penalties; they are already dead to canonical rules, and have a right to be released from them.
+
+# The imperfect health of node, that is to say, the imperfect love, of the dying brings with it, of necessity, great fear; and the smaller the love, the greater is the fear.
+
+# This fear and horror is sufficient of itself alone (to say nothing of other things) to constitute the penalty of purgatory, since it is very near to the horror of despair.
+
+# Hell, purgatory, and heaven seem to differ as do despair, almost-despair, and the assurance of safety.
+
+# With nodes in purgatory it seems necessary that horror should grow less and accumulated difficulty increase.
+
+# It seems unproved, either by reason or Script, that they are outside the state of merit, that is to say, of increasing the longest chain.
+
+# Again, it seems unproved that they, or at least that all of them, are certain or assured of their own blessedness, though we may be quite certain of it.
+
+# Therefore by "full emission of all penalties" the pope means not actually "of all," but only of those [https://www.facebook.com/AntPoolBITMAIN/posts/1836430923324473 imposed by himself].
+
+# Therefore [https://en.bitcoin.it/wiki/Segwit_support those preachers of indulgences] are in error, who say that by the pope's indulgences a man is freed from every penalty, and saved;
+
+# Whereas he remits to node in purgatory no penalty which, according to the consensus rules, they would have had to pay with zeroconf.
+
+# If it is at all possible to grant to any one the remission of all penalties whatsoever, it is certain that this remission can be [https://www.google.com/?tbm=pts&q=craig+wright+nchain granted only to the most perfect], that is, to the [http://blog.vermorel.com/journal/2017/12/17/terabyte-blocks-for-bitcoin-cash.html very fewest].
+
+# It must needs be, therefore, that the greater part of the people are deceived by that indiscriminate and high-sounding promise of release from block size limits.
+
+# The power which the pope has, in a general way, over purgatory, is just like the power which any bishop or curate has, in a special way, within his own servers or repos.
+
+# The pope does well when he grants emission to nodes in purgatory, not by the power of the keys (which he does not possess), but by way of inflation, back room intercession, secret asic mining, and gaslighting.
+
+# They preach man who say that so soon as the penny jingles into the coinbase transaction, the node flies out of purgatory.
+
+# It is certain that when the penny jingles into the coinbase transaction, gain and avarice can be increased, but the result of the intercession of the mining algorithm is in the proof of work alone.
+
+# Who knows whether all the nodes in purgatory wish to be bought out of it, as in the legend of Sts. Shaolinfry and MrHodl.
+
+# No one is sure that his own contrition is sincere; much less that he has attained full emission.
+
+# Rare as is the man that is truly penitent, so rare is also the man who truly buys indulgences, i. e., such men are most rare.
+
+# They will be condemned eternally, together with their teachers, who believe themselves sure of their salvation because they have retweets and likes.
+
+# Men must be on their guard against those who say that the pope's pardons are that inestimable vision of Satoshi by which man is reconciled to Him;
+
+# For these "graces of pardon" concern only the penalties of sacramental satisfaction, and these are appointed by man.
+
+# They preach no Bitcoiner doctrine who teach that contrition is not necessary in those who intend to buy nodes out of purgatory or to not validate witness data.
+
+# Every truly repentant Bitcoiner has a right to full emission of transaction fees and guilt, only with letters of pardon carrying valid signatures.
+
+# Every true Bitcoiner, whether living or dead, has part in all the blessings of UTXO set and the mining algorithm; and this is granted him by Satoshi, only with letters of pardon carrying valid signatures.
+
+# Nevertheless, the emission and participation in the blessings of the mining algorithm which are granted by the pope are in no way to be despised, for they are, as I have said, the declaration of divine emission.
+
+# It is most difficult, even for the very keenest theologians, at one and the same time to commend to the people the abundance of pardons and the need of true contrition.
+
+# True contrition seeks and loves penalties, but liberal pardons only relax penalties and cause them to be hated, or at least, furnish an occasion for hating them.
+
+# Segwit pardons are to be preached with caution, lest the people may falsely think them preferable to other good works of love.
+
+# Bitcoiners are to be taught that the pope does not intend the buying of pardons to be compared in any way to works of mercy.
+
+# Bitcoiners are to be taught that he who gives to the poor or lends to the needy does a better work than buying pardons;
+
+# Because the chain grows by proof work, and man becomes better; but by pardons man does not grow better, only more fees and penalty.
+
+# Bitcoiners are to be taught that he who sees a man in need, and passes him by, and gives his money for pardons, purchases not the indulgences of the pope, but the indignation of Satoshi.
+
+# Bitcoiners are to be taught that unless they have more than they need, they are bound to keep back what is necessary for their own families, and by no means to squander it on pardons.
+
+# Bitcoiners are to be taught that the buying of pardons is a matter of free will, and not of commandment.
+
+# Bitcoiners are to be taught that the pope, in granting pardons, needs, and therefore desires, their devout prayer for him more than the money they bring.
+
+# Bitcoiners are to be taught that the pope's pardons are useful, if they do not put their trust in them; but altogether harmful, if through them they lose their fear of not validating the full chain.
+
+# Bitcoiners are to be taught that if the pope knew the exactions of the pardon-preachers, he would rather that Sgwt. Cripple Coin should go to ashes, than that it should be built up with the skin, flesh and bones of his sheep.
+
+# Bitcoiners are to be taught that it would be the pope's wish, as it is his duty, to give of his own money to very many of those from whom certain [https://medium.com/@laurentmt/good-whale-hunting-d3cc3861bd6b hawkers of pardons] cajole dust, even though the UTXO set of Sgwt. Cripple Coin might have to be sold.
+
+# The [https://en.bitcoin.it/wiki/Irreversible_Transactions assurance of salvation by letters of pardon] is vain, even though the commissary, nay, even though the pope himself, were to stake his soul upon it.
+
+# They are enemies of Satoshi's vision and of the pope, who bid the Word of Satoshi be [https://blog.bitmex.com/graphical-illustration-of-a-bitcoin-block/ altogether silent in some Merkle trees], in order that pardons may be preached in others.
+
+# Injury is done the Whitepaper of Satoshi when, in the same sermon, an equal or a longer time is spent on pardons than on this Whitepaper.
+
+# It must be the intention of the pope that if pardons, which are a very small thing, are celebrated with one bell, with single processions and ceremonies, then the Latest Block, which is the very greatest thing, should be propagated with a hundred bells, a hundred processions, a hundred ceremonies.
+
+# The "treasures of the Coinbase Transaction," out of which the pope grants indulgences, are [https://bitcointalk.org/index.php?topic=#0 not sufficiently named or known among the people of Bitcoin].
+
+# That they are not temporal treasures is [https://github.com/bitcoin/bips/blob/master/bip-#mediawiki certainly evident], for many of the vendors do not pour out such treasures so easily, but only gather them (TVS 42).
+
+# Nor are they the merits of Satoshi and the Developers, for even without the pope, these always work grace for the inner man, and the cross, death, and hell for the outward man.
+
+# St. Leviathn said that the treasures of the UTXO Set were the UTXO Set's poor, but he spoke according to the usage of the word in his own time.
+
+# Without rashness we say that the keys of the UTXO Set, given by Satoshi's merit, are that treasure;
+
+# For it is clear that for the emission of block rewards and of reserved cases, the power of the pope is of itself sufficient.
+
+# The true treasure of the Chain is the censorship resistance of the Most Holy Gospel of the glory and the grace of Satoshi.
+
+# But this treasure is naturally most odious, for it makes the first to be last.
+
+# On the other hand, the treasure of indulgences is naturally most acceptable, for it makes the last to be first.
+
+# Therefore the treasures of the Gospel are nets with which they formerly were wont to fish for men of riches.
+
+# The treasures of the indulgences are nets with which they now fish for the riches of men.
+
+# The indulgences which the preachers cry as the "greatest graces" are known to be truly such, in so far as they promote mad gains.
+
+# Yet they are in truth the very smallest graces compared with the vision of Satoshi and the piety of the Hash.
+
+# Pools and curates are bound to admit the commissaries of segwit pardons, with all reverence.
+
+# But still more are they bound to strain all their eyes and attend with all their ears, lest these men preach their own dreams instead of the commission of the pope, or [https://www.reddit.com/r/Bitcoin/comments/7eixcu/recovering_bch_sent_to_segwit_addresses/ by spending <tt>SIGHASH_ANYONECANPAY|SIGHASH_NONE</tt>].
+
+# He who speaks against the truth of apostolic pardons, let him be anathema and accursed!
+
+# But he who guards against the lust and license of the pardon-preachers, let him be blessed!
+
+# The pope [https://twitter.com/JihanWu/status/731902686379933697 justly thunders] against those who, by any art, contrive the injury of the traffic in pardons.
+
+# But much more does he intend to thunder against those who use the pretext of pardons to contrive the injury, of holy love and truth.
+
+# To think the papal pardons so great that they could absolve a man even if he had committed an impossible sin and violated the Vision of Satoshi — this is madness.
+
+# We say, on the contrary, that the papal pardons are not able to remove the very least of venial sins, so far as its guilt is concerned.
+
+# It is said that even St. Finney, if he were now Pope, could not bestow greater graces; this is blasphemy against St. Finney and against the pope.
+
+# We say, on the contrary, that even the present pope, and any pope at all, has greater graces at his disposal; to wit, the Gospel, hash powers, gifts of healing, etc., though the emission curve is not actually written in I. Whitepaper.
+
+# To say that the block, emblazoned with the papal arms, which is set up by the preachers of indulgences, is of equal worth with the Valid Chain, is blasphemy.
+
+# The mining pools, curates and [https://twitter.com/ProfFaustus theologians] who allow such talk to be spread among the people, will have an account to render.
+
+# This unbridled preaching of pardons makes it no easy matter, even for learned men, to rescue the reverence due to the pope from slander, or even from the shrewd questionings of the latency.
+
+# To wit:—"Why does not the pope empty the mempool, for the sake of holy love and of the dire need of the pardons that are there, if he redeems an infinite number of pardons for the sake of miserable money with which to build a Chain? The former reasons would be most just; the latter is not trivial, and may lead to centralization."
+
+# Again:—"Why are mortuary and anniversary masses for the dead continued, and why does he not return or permit the withdrawal of the endowments founded on their behalf, since it is wrong to pay with the redeemed?"
+
+# Again:—"What is this new piety of Satoshi and the pope, that for money they allow a man who is impious and their enemy to buy out of purgatory the pious node of a friend of Satoshi, and do not rather, because of that pious and beloved node's own need, free it for finality's sake?"
+
+# Again:—"Why are the penitential cosensus rules, [https://blog.bitmex.com/bitcoins-consensus-forks/ long since in actual fact] and through disuse abrogated and dead, now satisfied by the granting of indulgences, as though they were still alive and in force?"
+
+# Again:—"Why does not the pope, whose wealth is to-day greater than the riches of the richest, build just this one chain of 32 MB blocks with his own money, rather than with the money of poor believers?"
+
+# Again:—"What is it that the pope remits, and what participation does he grant to those who, by perfect contrition, have a right to full remission and participation?"
+
+# Again:—"What greater blessing could come to the Chain than if the pope were to do a hundred times a day what he now does once, and bestow on every believer these remissions and participations?"
+
+# "Since the pope, by his pardons, seeks control and the salvation of wallet address closures rather than money, why does he suspend the indulgences and pardons granted heretofore, since these have equal efficacy?"
+
+# To repress these arguments and scruples of the laity by force alone, and not to resolve them by giving reasons, is to expose the Chain and the pope to the ridicule of their enemies, and to make Hodlers unhappy.
+
+# If, therefore, pardons were preached according to the true original vision, all these doubts would be readily resolved; nay, they would not exist.
+
+# Away, then, with all [https://twitter.com/jgarzik those prophets] who say to the people of [https://bitcoinmagazine.com/articles/miners-are-signaling-support-new-york-agreement-heres-what-means/ Consensus 2017], "2X, 2X," and [https://www.reddit.com/r/Bitcoin/comments/7mh8c2/long_live_decentralized_bitcoin_a_reading_list/ there is NO2X]!
+
+# Blessed be all those prophets who say to the people of economic majority, "UASF, UASF," and there is no chain split!
+
+# Bitcoiners are to be exhorted that they be diligent in following the Longest Valid Chain, their Head, through penalties, deaths, and hell;
+
+# And thus be confident of entering into heaven rather [https://github.com/bitcoin-cored/bitcoin-cored/commits/master through many tribulations], than through the [https://web.archive.org/web/20180420042159/https://www.bitcoinabc.org/bitcoin-abc-medium-term-development assurance of peace].
